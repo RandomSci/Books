@@ -1,0 +1,9 @@
+sympy
+pandas
+torch_snippets
+numpy
+opencv-python
+scikit-learn
+scipy
+matplotlib
+seaborn
